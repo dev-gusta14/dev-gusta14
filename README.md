@@ -2,4 +2,4 @@
 -Por aqui eu estaria postando alguns dos meu projetos envolvendo programação.
 -Sou estudante de Análise e Desenvolvimento de Sistemas.
 -Estou focado em desenvolver programas voltados para a área de ciência e análise de dados.
--Espero que meu perfil possa ser de alguma ajuda pra quem também estiver nesse rumo.
+-Espero que meu perfil possa ser de alguma ajuda pra quem também estiver nesse rumo. 
