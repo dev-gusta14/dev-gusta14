@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=b81414&center=true&vCenter=true&random=false&width=524&lines=Oi,+eu+sou+Gusta!" alt="Typing SVG">
   </a>
@@ -11,8 +11,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 <div>
   <a href="https://github.com/dev-gusta14/dev-gusta14">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=dev-gusta14&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gusta14&layout=compact&langs_count=16&theme=shadow_red"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=dev-gusta14&show_icons=true&theme=shadow_red&include_all_commits=true&countprivate=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-gusta14&layout=compact&langscount=16&theme=shadow_red"/>
 </div>
 
 ##
@@ -28,7 +28,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
                 
 </div>
   
-  ##
+##
  
 <div> 
   <a href = "mailto:gustavofirminoas@gmail.com"><img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
@@ -37,8 +37,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 </div>
 
+##
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-gusta14/dev-gusta14/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/g/dev-gusta14/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-gusta14/dev-gusta14/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dev-gusta14/dev-gusta14/output/github-contribution-grid-snake.svg">
 </picture>
